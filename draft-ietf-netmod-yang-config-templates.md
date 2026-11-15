@@ -3,7 +3,7 @@ title: "YANG Configuration Templates"
 abbrev: "YANG Config Templates"
 category: std
 
-docname: draft-tt-netmod-yang-config-templates-latest
+docname: draft-ietf-netmod-yang-config-templates-latest
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
