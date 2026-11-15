@@ -12,6 +12,7 @@
 /.targets.mk
 /.venv/
 /.vscode/
+/.includes.mk
 /lib
 /node_modules/
 /versioned/
@@ -19,4 +20,6 @@ Gemfile.lock
 archive.json
 package-lock.json
 report.xml
+test-vectors/expand-templates.py
+test-vectors/test.sh
 !requirements.txt
