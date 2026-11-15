@@ -1,21 +1,22 @@
-# YANG Templates
+<!-- regenerate: on (set to off if you edit this file) -->
 
-This is the working area for the individual Internet-Draft, "YANG Templates".
+# YANG Configuration Templates
+
+This is the working area for the IETF [NETMOD Working Group](https://datatracker.ietf.org/group/netmod/documents/) Internet-Draft, "YANG Configuration Templates".
 
 * [Editor's Copy](https://QiufangMa.github.io/template-mechanism/#go.draft-ietf-netmod-yang-config-templates.html)
 * [Datatracker Page](https://datatracker.ietf.org/doc/draft-ietf-netmod-yang-config-templates)
-* [HTML Format](https://datatracker.ietf.org/doc/html/draft-ietf-netmod-yang-config-templates)
-* [Compare Editor's Copy to Individual Draft](https://QiufangMa.github.io/template-mechanism/#go.draft-ietf-netmod-yang-config-templates.diff)
+* [Working Group Draft](https://datatracker.ietf.org/doc/html/draft-ietf-netmod-yang-config-templates)
+* [Compare Editor's Copy to Working Group Draft](https://QiufangMa.github.io/template-mechanism/#go.draft-ietf-netmod-yang-config-templates.diff)
 
 
 ## Contributing
 
 See the
-[guidelines for contributions](https://github.com/QiufangMa/template-mechanism/blob//CONTRIBUTING.md).
+[guidelines for contributions](https://github.com/QiufangMa/template-mechanism/blob/main/CONTRIBUTING.md).
 
-Contributions can be made by creating pull requests.
-The GitHub interface supports creating pull requests using the Edit (✏) button.
-
+The contributing file also has tips on how to make contributions, if you
+don't already know how to do that.
 
 ## Command Line Usage
 
