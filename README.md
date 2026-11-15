@@ -2,10 +2,10 @@
 
 This is the working area for the individual Internet-Draft, "YANG Templates".
 
-* [Editor's Copy](https://QiufangMa.github.io/template-mechanism/#go.draft-tt-netmod-yang-config-templates.html)
-* [Datatracker Page](https://datatracker.ietf.org/doc/draft-tt-netmod-yang-config-templates)
-* [Individual Draft](https://datatracker.ietf.org/doc/html/draft-tt-netmod-yang-config-templates)
-* [Compare Editor's Copy to Individual Draft](https://QiufangMa.github.io/template-mechanism/#go.draft-tt-netmod-yang-config-templates.diff)
+* [Editor's Copy](https://QiufangMa.github.io/template-mechanism/#go.draft-ietf-netmod-yang-config-templates.html)
+* [Datatracker Page](https://datatracker.ietf.org/doc/draft-ietf-netmod-yang-config-templates)
+* [HTML Format](https://datatracker.ietf.org/doc/html/draft-ietf-netmod-yang-config-templates)
+* [Compare Editor's Copy to Individual Draft](https://QiufangMa.github.io/template-mechanism/#go.draft-ietf-netmod-yang-config-templates.diff)
 
 
 ## Contributing

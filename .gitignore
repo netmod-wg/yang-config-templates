@@ -17,7 +17,6 @@
 /versioned/
 Gemfile.lock
 archive.json
-draft-ma-netmod-template-mechanism.xml
 package-lock.json
 report.xml
 !requirements.txt
