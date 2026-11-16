@@ -5,10 +5,10 @@
 Network Modeling                                               K. Watsen
 Internet-Draft                                           Watsen Networks
 Intended status: Standards Track                                   Q. Ma
-Expires: 19 May 2027                                              Huawei
+Expires: 20 May 2027                                              Huawei
                                                               D. Rajaram
                                                                    Nokia
-                                                        15 November 2026
+                                                        16 November 2026
 
 
                       YANG Configuration Templates
@@ -49,7 +49,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 19 May 2027.
+   This Internet-Draft will expire on 20 May 2027.
 
 Copyright Notice
 
