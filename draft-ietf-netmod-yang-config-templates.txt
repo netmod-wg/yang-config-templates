@@ -32,7 +32,7 @@ Discussion Venues
    https://mailarchive.ietf.org/arch/browse/netmod/.
 
    Source for this draft and an issue tracker can be found at
-   https://github.com/QiufangMa/template-mechanism.
+   https://github.com/netmod-wb/yang-config-templates.
 
 Status of This Memo
 
